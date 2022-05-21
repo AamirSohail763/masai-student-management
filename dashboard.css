@@ -1,0 +1,32 @@
+button a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 5px 20px;
+    border: 0px;
+    border-radius: 4px;
+}
+#navbar{
+    display: flex;
+    background-color: teal;
+    color: white;
+    margin-top: 10px;
+
+}
+#navbar p{
+    margin-right: 15px;
+    margin-left: 5px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+.card{
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 30px;
+}

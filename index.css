@@ -1,0 +1,42 @@
+button a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 5px 20px;
+    border: 0px;
+    border-radius: 4px;
+    margin-left: 85%;
+}
+h1{
+    text-align: center;
+    color: teal;
+}
+#form input{
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 30px 10px 5px;
+    margin-left: 43%;
+}
+#form :nth-child(6){
+    padding: 8px 25px ;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 47%;
+    background-color: teal;
+    color: white;
+    border: 0px;
+}
+#navbar{
+    display: flex;
+    background-color: teal;
+    color: white;
+    margin-top: 10px;
+
+}
+#navbar p{
+    margin-right: 15px;
+    margin-left: 5px;
+}
